@@ -1,6 +1,4 @@
-# Project-2
-
-## App Name: Book Wars
+## App Name: Book-Wars
 
 ### Link to Live Game: https://book-wars.herokuapp.com/
 
@@ -39,37 +37,19 @@ Functionality:
   - Once the search criteria is submitted and results are returned, users will have the option to preview 10 books that match their search criteria.
   - To vote, users will first need to click the "Add Book" button to ensure the book is stored in the database from the API call. Once the book has been added, users may then vote on the books by either using the thumbs up or down emojis.
 ```
+##### Technologies Used
+- Axios
+- Connect-flash-plus
+- Express
+- Express-session
+- Express-handlebars
+- MySql
+- Passport.JS
+- Sequelize
+  
 
-## Team Members and Contributions
 
-##### Emily Brown (emily-brown)
-```
-Contributions:
-  - HTML creation/setup using Bootstrap
-  - CSS styling
-  - Handlebar configuration
-```
-##### Neha Gupta (nehagupta2507)
-```
-Contributions:
-  - Passport.js configuration for authentication functionality 
-  - connect-flash for validation errors
-  - Frontend connectivity 
-  - Database configuration 
-```
-##### Saba Khan (svk192)
-```
-Contributions:
-  - Heroku configuration
-  - API configuration and calls
-  - Voting logic
-  - Frontend configuration
-```
-##### Sathish Pittala (sathishbaburaj)
-```
-Contributions:
-  - API configuration 
-  - Book lookup functionality 
-```
+
+
 
 

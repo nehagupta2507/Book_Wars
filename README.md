@@ -46,6 +46,8 @@ Functionality:
 - MySql
 - Passport.JS
 - Sequelize
+- travis CI
+- 
   
 
 
